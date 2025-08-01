@@ -52,6 +52,3 @@ I'm always open to good conversations and better ways to solve problems.
 
 > *Thanks for stopping by — I hope this repo sparks some ideas of your own.*
 
----
-
-#LLMAutomation #EngineeringSimplified #LLMTools #BashMeetsAI #RealWorldAI #Flexsoft #DeveloperLife
